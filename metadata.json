@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina TV Gallery",
+  "description": "A sophisticated media gallery for Smart TVs with AI-powered tagging and seamless remote navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
